@@ -22,7 +22,7 @@ a {
   text-decoration: none;
 }
 .pf-sidebar {
-  background-color: grey;
+  background-color: grey !important;
   padding: 5vw;
 }
 
