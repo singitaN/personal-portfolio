@@ -22,11 +22,11 @@ a {
   text-decoration: none;
 }
 .pf-sidebar {
-  background-color: grey !important;
+  background-color: #84857C !important;
   padding: 5vw;
 }
 
 .pf-grid-item {
-  background-color: grey;
+  background-color: #84857C;
   padding: 3vw;
 }
